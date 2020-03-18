@@ -1,5 +1,5 @@
 '''
-Algorithm for selection Sort
+Algorithm for Insertion Sort
 '''
 
 def selectionSort(A):
