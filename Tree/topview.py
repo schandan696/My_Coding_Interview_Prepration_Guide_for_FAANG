@@ -1,7 +1,5 @@
 from collections import OrderedDict
-class newNode:
- 
-    # Construct to create a newNode
+class newNode: 
     def __init__(self, key):
         self.info = key
         self.left = None
